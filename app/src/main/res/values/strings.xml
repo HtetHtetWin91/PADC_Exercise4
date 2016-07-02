@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PADC_LinkedIn</string>
+    <string name="action_settings">Settings</string>
+    <string name="linkIntext1">
+        AungPyae Phyo \n
+Mobile Solution Developer \n
+India-Myanmar Center of Enhanced IT Skills (IMCEITS) \n
+Singapore.360 \n\n
+
+End-to-end mobile solution developer based\n
+in Myanmar and Singapore.Passionate on....</string>
+    <string name="profile">who\'s viewed your profile</string>
+    <string name="left_menu_LinkedIn">PADC - LinkedIn</string>
+    <string name="jobSearch">PADC - Job Search</string>
+    <string name="delete">PADC - Pulse</string>
+    <string name="flim">ရုပ္ရွင္</string>
+    <string name="winzin">PADC - ၀န္ဇင္း</string>
+    <string name="tvjobalert">Create a job alert</string>
+    <string name="tv_job1">Developer / Senior Developer \n
+    Standard Chartered Bank \n
+        Singapore
+    </string>
+    <string name="tv_job2">SAP Partner Solution Center \n
+    Head for APJ &amp; Greater China \n
+        SAP\n
+        Singapore -01</string>
+    <string name="tv_job3">Techinal Architect - Marketing\n
+   Cloud\n
+
+      salesforce.com</string>
+    <string name="tv_job4">Client Partner, Mobile Publishe\n
+   Sales -Japan\n
+Facebook\n
+      Singapore</string>
+    <string name="tv_pulse">Good Morning, Aung Pyae \n
+    Here are your top stories for the day</string>
+</resources>
